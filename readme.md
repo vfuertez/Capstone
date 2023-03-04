@@ -6,7 +6,7 @@ A brief description of what this project does and who it's for
 
 **Backend:** Django, Python, render
 
-**Frontend:** React, Tailwind, Netlify
+**Frontend:** Vue, Tailwind, Netlify
 
 
 # Routes
@@ -25,3 +25,5 @@ A brief description of what this project does and who it's for
 
 
 ## Project Link
+- [Frontend](https://github.com/vfuertez/Capstone)
+- [Backend](https://github.com/vfuertez/capstone-backend)
