@@ -19,9 +19,12 @@ A brief description of what this project does and who it's for
 | `update`  | Update     |            |updateAction| Update items| 
 | `delete`  | Delete     |            |deleteAction| Delete items| 
 
+## Model
+![](https://i.imgur.com/ywU7LrY.png[/img])
+
 ## Wireframe
 
-![]
+![](https://i.imgur.com/4oyb8gf.png)
 
 
 ## Project Link
